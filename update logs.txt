@@ -1,0 +1,7 @@
+4/17/2019
+-fixed bug in which blacklisted words would be deleted in music commands
+-finished blacklisting words auto deleting and reporting
+-fixed auto-role not working (discord side)
+
+4/18/2019
+-made it so guests can use commands, faction members can use faction commands (eg. $warn, $alarm) and discord admins can use admin commands (eg. $login, $mute)

@@ -1,0 +1,10 @@
+Ideas to implement into Zennara:
+
+1. Coordinates List w/ Input
+2. In-code/console discord server chat
+3. Connect to mc server and send messages to chat (/near bot)
+4. Operation Pathfinder
+5. moderation commands (mute, ban, kick, etc.)
+6. Update code to discord.py 1.x (ds.py rewrite)
+7. Make it work for any server (custom commands etc.)
+8. Make block message command show # of times blocked/ person
